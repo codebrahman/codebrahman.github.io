@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Throughout my career, I have developed a reputation as an experienced software professional with the ability to architect and encourage the development of maintainable, testable, and scalable systems.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am known to be a collaborative team-player with high emotional intelligence and the capacity to manage an engineering team’s day-to-day responsibilities within a fast-paced environment; highly skilled in building big data analytics systems.
+
+Perhaps most important, I am an organized professional with a proactive mindset and a strong work ethic, able to oversee an engineering team to build, operate, and maintain software with a focus on meeting business and customer needs; able to contribute to the entire development lifecycle from concept to release and at every level of the tech stack. 
